@@ -36,12 +36,12 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 
 | Project | Description | Repo |
 | :--- | :--- | :--- |
-| **Wazuh SIEM Lab** | Centralized monitoring, real-time detection, automated alerts. | [🔗 View](https://github.com/yourusername/wazuh-siem-lab) |
-| **PAM & Secure Access Lab** | WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/yourusername/pam-vault-lab) |
-| **NAC Enforcement Lab** | 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/yourusername/freeradius-nac) |
-| **Web Application Firewall** | Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/yourusername/nginx-waf-lab) |
-| **PDF Malware Analyzer** | Python tool to scan PDFs for anomalies and scripts. | [🔗 View](https://github.com/yourusername/pdf-malware-analyzer) |
-| **Ubuntu Hardening** | CIS Benchmark automation, 75%+ compliance increase. | [🔗 View](https://github.com/yourusername/ubuntu-cis-hardening) |
+| **Wazuh SIEM Lab** | Centralized monitoring, real-time detection, automated alerts. | [🔗 View](https://github.com/EssoToni/wazuh-siem-lab) |
+| **PAM & Secure Access Lab** | WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
+| **NAC Enforcement Lab** | 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
+| **Web Application Firewall** | Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
+| **PDF Malware Analyzer** | Python tool to scan PDFs for anomalies and scripts. | [🔗 View](https://github.com/EssoToni/pdf-malware-analyzer) |
+| **Ubuntu Hardening** | CIS Benchmark automation, 75%+ compliance increase. | [🔗 View](https://github.com/EssoToni/ubuntu-cis-hardening) |
 
 *Click any repo to see full documentation, setup guides, and demos.*
 
