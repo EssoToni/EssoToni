@@ -5,7 +5,7 @@
   <a href="https://www.credly.com/users/esso-maleki/">
     <img src="https://img.shields.io/badge/Credly-FF6C37?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="https://www.linkedin.com/in/essomaléki">
+  <a href="https://www.linkedin.com/in/essomaleki">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
