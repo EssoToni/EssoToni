@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Esso Maléki TONINZIBA 👋</h1>
+<h1 align="center">Hi there, I'm Esso Maléki TONINZIBA </h1>
 <h3 align="center">Junior Cybersecurity Analyst</h3>
 
 <p align="center">
