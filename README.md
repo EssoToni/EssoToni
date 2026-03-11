@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Esso Maléki TONINZIBA 👋</h1>
-<h3 align="center">Junior Cybersecurity Analyst | Security Automation | Togo</h3>
+<h3 align="center">Junior Cybersecurity Analyst</h3>
 
 <p align="center">
   <a href="https://www.credly.com/users/esso-maleki/">
