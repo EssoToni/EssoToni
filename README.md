@@ -32,14 +32,6 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 
 ---
 
-### 💼 Experience (Brief)
-
-- **Cybersecurity Intern** @ SecurWires (2026–present) – Blockchain security, forensics, threat landscapes.
-- **Network & Security Dev Intern** @ CMDB Consulting (2024) – Built React/FastAPI monitoring interface with security alerts.
-- **Systems Admin Intern** @ ATANYS (2023) – Managed Windows/Linux, DHCP/DNS, achieved 90% support resolution.
-
----
-
 ### 🧪 Featured Projects
 
 | Project | Description | Repo |
@@ -69,6 +61,14 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 - 🎓 **Bachelor’s in Information Security** – University of Kara (2024)
 - 🎓 **CASIG** – African School on Internet Governance (2023)
 
+---
+
+### 💼 Experience (Brief)
+
+- **Cybersecurity Intern** @ SecurWires (2026–present) – Blockchain security, forensics, threat landscapes.
+- **Network & Security Dev Intern** @ CMDB Consulting (2024) – Built React/FastAPI monitoring interface with security alerts.
+- **Systems Admin Intern** @ ATANYS (2023) – Managed Windows/Linux, DHCP/DNS, achieved 90% support resolution.
+  
 ---
 
 ### 🏆 Highlights
