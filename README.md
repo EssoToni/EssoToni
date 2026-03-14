@@ -40,7 +40,7 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 | **PAM & Secure Access Lab** | WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
 | **NAC Enforcement Lab** | 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
 | **Web Application Firewall** | Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
-| **Vulnerability Management Lab** | Conducted vulnerability assessments using Nessus, prioritized findings based on CVSS scoring, and tracked remediation actions | [🔗 View](https://github.com/EssoToni/vulnerability-management) |
+| **Vulnerability Management Lab** | Conducted vulnerability assessments using Nessus, prioritized findings based on CVSS scoring, and tracked remediation actions | [🔗 View](https://github.com/EssoToni/vulnerability-management-lab) |
 | **PDF Malware Analyzer** | Python tool to scan PDFs for anomalies and scripts. | [🔗 View](https://github.com/EssoToni/pdf-malware-analyzer) |
 | **Ubuntu Hardening** | CIS Benchmark automation, 75%+ compliance increase. | [🔗 View](https://github.com/EssoToni/ubuntu-cis-hardening) |
 
