@@ -26,7 +26,7 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 | Category | Skills |
 | :--- | :--- |
 | **Security Ops** | 🛡️ PAM (Vault) \| 🔑 NAC (FreeRADIUS) \| 📡 SIEM/EDR (Wazuh) \| 🔒 VPN (WireGuard) \| 🔥 Firewalls |
-| **Networks** | 🌐 TCP/IP, VLANs, Cisco, Windows/Linux Server, Active Directory |
+| **Networks** | 🌐 TCP/IP, VLANs, Cisco, Fortinet, Windows/Linux Server, Active Directory |
 | **Dev & Automation** | 🐍 Python \| 🔧 Bash \| 💻 PowerShell \| 🗄️ MySQL/PostgreSQL |
 | **Compliance** | 📈 CIS Benchmarks \| 🛡️ CVSS \| Nessus |
 
