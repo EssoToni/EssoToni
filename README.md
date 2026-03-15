@@ -36,13 +36,15 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 
 | Project | Description | Repo |
 | :--- | :--- | :--- |
-| **Wazuh SIEM Lab** | Centralized monitoring, real-time detection, automated alerts. | [🔗 View](https://github.com/EssoToni/wazuh-siem-lab) |
-| **PAM & Secure Access Lab** | WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
-| **NAC Enforcement Lab** | 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
-| **Web Application Firewall** | Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
+| **Wazuh SIEM Lab** | Implemented centralized monitoring, real-time detection, and automated event management using Wazuh. | [🔗 View](https://github.com/EssoToni/wazuh-siem-lab) |
+| **Network Intelligence API** | Designed and implemented a Python/Scapy API to automatically discover devices across local networks; exported device metadata in JSON format. | [🔗 View](https://github.com/EssoToni/network-intelligence-api) |
+| **PAM & Secure Access Lab** | Designed and deployed WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
+| **NAC Enforcement Lab** | Implemented pre-access authentication enforcement using 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
+| **Web Application Firewall** | Implemented Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
 | **Vulnerability Management Lab** | Conducted vulnerability assessments using Nessus, prioritized findings based on CVSS scoring, and tracked remediation actions | [🔗 View](https://github.com/EssoToni/vulnerability-management-lab) |
-| **PDF Malware Analyzer** | Python tool to scan PDFs for anomalies and scripts. | [🔗 View](https://github.com/EssoToni/pdf-malware-analyzer) |
+| **PDF Malware Analyzer** | Built a static Python tool to scan PDFs for anomalies and scripts. | [🔗 View](https://github.com/EssoToni/pdf-malware-analyzer) |
 | **Ubuntu Hardening** | CIS Benchmark automation, 75%+ compliance increase. | [🔗 View](https://github.com/EssoToni/ubuntu-cis-hardening) |
+| **E-learning Cyber Risk Assessment (EBIOS RM)** | Modeled threat scenarios and risk treatment strategies for an LMS using the EBIOS RM methodology; identified key attack surfaces and proposed mitigations. | [🔗 View](https://github.com/EssoToni/risk-assessment) |
 
 *Click any repo to see full documentation, setup guides, and demos.*
 
