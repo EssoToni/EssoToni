@@ -54,7 +54,9 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 
 <p>
   <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0066CC?style=flat-square&logo=isc2" />
+  <img src="https://img.shields.io/badge/Fortinet-Certified%20Associate-EE3124?style=flat-square&logo=fortinet" />
   <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-1BA0D7?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Cisco-Threat%20Management-1BA0D7?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Splunk-Security%20Operations-000000?style=flat-square&logo=splunk" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20101-FF9900?style=flat-square&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Microsoft-Azure%20Responsible%20AI-0078D4?style=flat-square&logo=microsoft" />
