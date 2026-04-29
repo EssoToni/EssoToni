@@ -38,6 +38,7 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 | :--- | :--- | :--- |
 | **Wazuh SIEM Lab** | Implemented centralized monitoring, real-time detection, and automated event management using Wazuh. | [🔗 View](https://github.com/EssoToni/wazuh-siem-lab) |
 | **Network Intelligence API** | Designed and implemented a Python/Scapy API to automatically discover devices across local networks; exported device metadata in JSON format. | [🔗 View](https://github.com/EssoToni/network-intelligence-api) |
+| **Digital Forensics Lab** | Conducted a hands‑on digital forensics lab during Computer Hacking and Digital Forensics Investigator (CHFI) sessions during an internship. | [🔗 View](https://github.com/EssoToni/digital-forensics-lab) |
 | **PAM & Secure Access Lab** | Designed and deployed WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
 | **NAC Enforcement Lab** | Implemented pre-access authentication enforcement using 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
 | **Web Application Firewall** | Implemented Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
