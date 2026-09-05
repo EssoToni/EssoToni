@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-Junior Cybersecurity Analyst with hands-on experience designing and deploying security lab environments, implementing access control mechanisms, and operating SIEM-based monitoring platforms. Skilled in securing network infrastructures through layered defense strategies and proactive threat detection. Also experienced in ITSM/helpdesk automation using GLPI, including ticket routing, SLA escalation, and REST API integration.
+Junior Cybersecurity Analyst and IT Support professional with hands-on experience in security operations, systems administration, helpdesk automation, and digital forensics. Skilled in deploying SIEM platforms, implementing access controls, automating IT workflows, and providing technical support with a 90% resolution rate. Certified in cybersecurity (ISC2 CC, Fortinet, Cisco) and IT support fundamentals. Passionate about bridging the gap between IT operations and security to build resilient, well-supported systems.
 
 
 - ⚡ Fun fact: I represented Togo at Huawei Seeds for the Future (Morocco) 2024.
@@ -27,7 +27,7 @@ Junior Cybersecurity Analyst with hands-on experience designing and deploying se
 | :--- | :--- |
 | **Security Ops** | 🛡️ PAM (Vault) \| 🔑 NAC (FreeRADIUS) \| 📡 SIEM/EDR (Wazuh) \| 🔒 VPN (WireGuard) \| 🔥 Firewalls |
 | **Digital Forensics** | 🔍 FTK Imager \| 💾 Magnet RAM Capture \| 🧠 Volatility 3 \| 📡 Wireshark \| 🔐 Hashing (MD5, SHA‑1, SHA‑256) \| 📋 Chain of Custody (NIST SP 800‑86) |
-| **ITSM / Helpdesk** | 🎫 GLPI \| 🔄 Automated Ticket Routing \| ⏱️ SLA Management \| 📦 Asset Discovery (GLPI Inventory) \| 🔗 REST API Integration \| 📋 Knowledge Base Management |
+| **IT Support & ITSM** | 🎫 GLPI \| 🔄 Automated Ticket Routing \| ⏱️ SLA Management \| 📦 Asset Discovery (GLPI Inventory) \| 🔗 REST API Integration \| 📋 Knowledge Base Management |
 | **Networks** | 🌐 TCP/IP, VLANs, Cisco, Fortinet, Windows/Linux Server, Active Directory |
 | **Dev & Automation** | 🐍 Python \| 🔧 Bash \| 💻 PowerShell \| 🗄️ MySQL/PostgreSQL \| 🕒 Cron |
 | **Compliance** | 📈 CIS Benchmarks \| 🛡️ CVSS \| Nessus |
@@ -39,8 +39,8 @@ Junior Cybersecurity Analyst with hands-on experience designing and deploying se
 | :--- | :--- | :--- |
 | **Wazuh SIEM Lab** | Implemented centralized monitoring, real-time detection, and automated event management using Wazuh. | [🔗 View](https://github.com/EssoToni/wazuh-siem-lab) |
 | **Network Intelligence API** | Designed and implemented a Python/Scapy API to automatically discover devices across local networks; exported device metadata in JSON format. | [🔗 View](https://github.com/EssoToni/network-intelligence-api) |
-| **Digital Forensics Lab** | Conducted a hands‑on digital forensics lab during Computer Hacking and Digital Forensics Investigator (CHFI) sessions during an internship. | [🔗 View](https://github.com/EssoToni/digital-forensics-lab) |
-| **GLPI Automation** | Completed a self-contained ITSM project built around GLPI. | [🔗 View](https://github.com/EssoToni/glpi-automation) |
+| **Digital Forensics Lab** | Performed file integrity verification, disk/mobile hashing, RAM capture (Magnet RAM Capture, Volatility 3), and network traffic analysis with Wireshark; documented chain of custody per NIST SP 800‑86. | [🔗 View](https://github.com/EssoToni/digital-forensics-lab) |
+| **GLPI Automation** | Deployed GLPI with automated ticket routing, SLA escalation, REST API integration, and cron‑driven automation scripts. | [🔗 View](https://github.com/EssoToni/glpi-automation) |
 | **PAM & Secure Access Lab** | Designed and deployed WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
 | **NAC Enforcement Lab** | Implemented pre-access authentication enforcement using 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
 | **Web Application Firewall** | Implemented Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
@@ -59,6 +59,7 @@ Junior Cybersecurity Analyst with hands-on experience designing and deploying se
   <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0066CC?style=flat-square&logo=isc2" />
   <img src="https://img.shields.io/badge/Fortinet-Certified%20Associate%20in%20Cybersecurity-EE3124?style=flat-square&logo=fortinet" />
   <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-1BA0D7?style=flat-square&logo=cisco" />
+<img src="https://img.shields.io/badge/Cisco-IT%20Support%20Career%20Path-1BA0D7?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Cisco-Threat%20Management-1BA0D7?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Splunk-Security%20Operations-000000?style=flat-square&logo=splunk" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20101-FF9900?style=flat-square&logo=amazonaws" />
