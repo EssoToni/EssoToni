@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a cybersecurity analyst with hands-on experience building security labs and automating defenses. I love breaking down complex problems and building resilient systems. My work spans **SIEM**, **PAM**, **NAC**, and **vulnerability management**.
+Junior Cybersecurity Analyst with hands-on experience designing and deploying security lab environments, implementing access control mechanisms, and operating SIEM-based monitoring platforms. Skilled in securing network infrastructures through layered defense strategies and proactive threat detection. Also experienced in ITSM/helpdesk automation using GLPI, including ticket routing, SLA escalation, and REST API integration.
 
 
 - ⚡ Fun fact: I represented Togo at Huawei Seeds for the Future (Morocco) 2024.
@@ -27,10 +27,10 @@ I'm a cybersecurity analyst with hands-on experience building security labs and 
 | :--- | :--- |
 | **Security Ops** | 🛡️ PAM (Vault) \| 🔑 NAC (FreeRADIUS) \| 📡 SIEM/EDR (Wazuh) \| 🔒 VPN (WireGuard) \| 🔥 Firewalls |
 | **Digital Forensics** | 🔍 FTK Imager \| 💾 Magnet RAM Capture \| 🧠 Volatility 3 \| 📡 Wireshark \| 🔐 Hashing (MD5, SHA‑1, SHA‑256) \| 📋 Chain of Custody (NIST SP 800‑86) |
+| **ITSM / Helpdesk** | 🎫 GLPI \| 🔄 Automated Ticket Routing \| ⏱️ SLA Management \| 📦 Asset Discovery (GLPI Inventory) \| 🔗 REST API Integration \| 📋 Knowledge Base Management |
 | **Networks** | 🌐 TCP/IP, VLANs, Cisco, Fortinet, Windows/Linux Server, Active Directory |
-| **Dev & Automation** | 🐍 Python \| 🔧 Bash \| 💻 PowerShell \| 🗄️ MySQL/PostgreSQL |
+| **Dev & Automation** | 🐍 Python \| 🔧 Bash \| 💻 PowerShell \| 🗄️ MySQL/PostgreSQL \| 🕒 Cron |
 | **Compliance** | 📈 CIS Benchmarks \| 🛡️ CVSS \| Nessus |
-
 ---
 
 ### 🧪 Featured Projects
