@@ -2,10 +2,10 @@
 <h3 align="center">Junior Cybersecurity Analyst</h3>
 
 <p align="center">
-  <a href="https://www.credly.com/users/esso-maleki/">
+  <a href="https://www.credly.com/users/EssoToni/">
     <img src="https://img.shields.io/badge/Credly-FF6C37?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="https://www.linkedin.com/in/essomaleki">
+  <a href="https://www.linkedin.com/in/EssoToni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -14,23 +14,24 @@
 
 ### 👨‍💻 About Me
 
-Junior Cybersecurity Analyst and IT Support professional with hands-on experience in security operations, systems administration, helpdesk automation, and digital forensics. Skilled in deploying SIEM platforms, implementing access controls, automating IT workflows, and providing technical support with a 90% resolution rate. Certified in cybersecurity (ISC2 CC, Fortinet, Cisco) and IT support fundamentals. Passionate about bridging the gap between IT operations and security to build resilient, well-supported systems.
+Cybersecurity Analyst with hands-on experience in security operations, incident response, and SIEM deployment. Skilled in monitoring and analyzing security events using Splunk and Wazuh, implementing access controls (PAM, NAC), conducting digital forensics investigations, and performing vulnerability assessments. Trained through Cisco's Cyber Defense Analyst path and certified in cybersecurity (ISC2 CC, Fortinet, Cisco).
 
-
-- ⚡ Fun fact: I represented Togo at Huawei Seeds for the Future (Morocco) 2024.
 
 ---
 
 ### 🛠️ Tech Stack
 
+
 | Category | Skills |
 | :--- | :--- |
+| **SOC Operations** | 📊 Splunk (SPL, Dashboards, Alerts) \| 🚨 Incident Response \| 🎯 Threat Detection & Hunting \| 🧩 MITRE ATT&CK \| 📡 Network Security Monitoring \| 🛰️ Threat Intelligence \| 📋 Log Analysis |
 | **Security Ops** | 🛡️ PAM (Vault) \| 🔑 NAC (FreeRADIUS) \| 📡 SIEM/EDR (Wazuh) \| 🔒 VPN (WireGuard) \| 🔥 Firewalls |
 | **Digital Forensics** | 🔍 FTK Imager \| 💾 Magnet RAM Capture \| 🧠 Volatility 3 \| 📡 Wireshark \| 🔐 Hashing (MD5, SHA‑1, SHA‑256) \| 📋 Chain of Custody (NIST SP 800‑86) |
 | **IT Support & ITSM** | 🎫 GLPI \| 🔄 Automated Ticket Routing \| ⏱️ SLA Management \| 📦 Asset Discovery (GLPI Inventory) \| 🔗 REST API Integration \| 📋 Knowledge Base Management |
 | **Networks** | 🌐 TCP/IP, VLANs, Cisco, Fortinet, Windows/Linux Server, Active Directory |
 | **Dev & Automation** | 🐍 Python \| 🔧 Bash \| 💻 PowerShell \| 🗄️ MySQL/PostgreSQL \| 🕒 Cron |
 | **Compliance** | 📈 CIS Benchmarks \| 🛡️ CVSS \| Nessus |
+
 ---
 
 ### 🧪 Featured Projects
@@ -59,7 +60,8 @@ Junior Cybersecurity Analyst and IT Support professional with hands-on experienc
   <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0066CC?style=flat-square&logo=isc2" />
   <img src="https://img.shields.io/badge/Fortinet-Certified%20Associate%20in%20Cybersecurity-EE3124?style=flat-square&logo=fortinet" />
   <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-1BA0D7?style=flat-square&logo=cisco" />
-<img src="https://img.shields.io/badge/Cisco-IT%20Support%20Career%20Path-1BA0D7?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Cisco-Cyber%20Defense%20Analyst%20%7C%20Splunk-1BA0D7?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Cisco-IT%20Support%20Career%20Path-1BA0D7?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Cisco-Threat%20Management-1BA0D7?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Splunk-Security%20Operations-000000?style=flat-square&logo=splunk" />
   <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20101-FF9900?style=flat-square&logo=amazonaws" />
