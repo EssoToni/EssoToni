@@ -1,87 +1,125 @@
-<h1 align="center">Hi, I'm Esso Maléki TONINZIBA </h1>
-<h3 align="center">Junior Cybersecurity Analyst</h3>
+<div align="center">
+  <h1>Esso Maléki TONINZIBA</h1>
+  <p><strong>Cybersecurity Analyst | Security Operations | Network &amp; Infrastructure Security</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/EssoToni/">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/EssoToni">GitHub</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.credly.com/users/essotoni">Credly credentials</a>
+  </p>
+</div>
+
+I work across information security, IT operations, and network infrastructure. My technical work focuses on understanding how systems behave, assessing their exposure, improving their security posture, and making operational activity more observable.
+
+This portfolio brings together practical labs, technical projects, and selected engineering work. Each project is presented through its objective, environment, technical approach, validation method, evidence, and limitations. The emphasis is on what the work demonstrates, not on listing tools without context.
+
+**Focus areas:** security monitoring, digital investigations, asset security, vulnerability assessment, system hardening, network security, and infrastructure operations  
+**Location:** Togo
 
 <p align="center">
-  <a href="https://www.credly.com/users/EssoToni/">
-    <img src="https://img.shields.io/badge/Credly-FF6C37?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
-  </a>
-  <a href="https://www.linkedin.com/in/EssoToni">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="#selected-technical-work">Selected work</a>
+  &nbsp;·&nbsp;
+  <a href="#professional-experience">Experience</a>
+  &nbsp;·&nbsp;
+  <a href="#additional-technical-work">More projects</a>
+  &nbsp;·&nbsp;
+  <a href="#education-programmes-and-credentials">Education &amp; credentials</a>
+  &nbsp;·&nbsp;
+  <a href="#technical-documentation">Documentation</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## Selected technical work
 
-Cybersecurity Analyst with hands-on experience in security operations, incident response, and SIEM deployment. Skilled in monitoring and analyzing security events using Splunk and Wazuh, implementing access controls (PAM, NAC), conducting digital forensics investigations, and performing vulnerability assessments. Trained through Cisco's Cyber Defense Analyst path and certified in cybersecurity (ISC2 CC, Fortinet, Cisco).
+### Security monitoring and telemetry
 
+**[Mini-SOC: Wazuh, Windows Server, and Ubuntu](projects/mini-soc/README.md)**  
+A VirtualBox-based monitoring environment in development. The lab brings together a Wazuh all-in-one server, a Windows Server 2019 endpoint, and an Ubuntu Server endpoint. Current work is focused on endpoint onboarding, telemetry validation, and documented detection exercises.
 
----
+**[Earlier Wazuh SIEM lab](https://github.com/EssoToni/wazuh-siem-lab)**  
+An earlier Wazuh OVA-based lab, retained as a separate project from the newer Mini-SOC environment.
 
-### 🛠️ Tech Stack
+### Infrastructure engineering
 
+**[Infrastructure monitoring interface: professional case study](projects/infrastructure-monitoring/README.md)**  
+Engineering work with CMDB Consulting on an infrastructure-monitoring interface. The solution combined a React and D3 front end, a Node.js and Express service layer, and a FastAPI-based component for network scanning and SNMP-related data collection. Public documentation is limited to non-confidential architecture and contribution details.
 
-| Category | Skills |
-| :--- | :--- |
-| **SOC Operations** | 📊 Splunk (SPL, Dashboards, Alerts) \| 🚨 Incident Response \| 🎯 Threat Detection & Hunting \| 🧩 MITRE ATT&CK \| 📡 Network Security Monitoring \| 🛰️ Threat Intelligence \| 📋 Log Analysis |
-| **Security Ops** | 🛡️ PAM (Vault) \| 🔑 NAC (FreeRADIUS) \| 📡 SIEM/EDR (Wazuh) \| 🔒 VPN (WireGuard) \| 🔥 Firewalls |
-| **Digital Forensics** | 🔍 FTK Imager \| 💾 Magnet RAM Capture \| 🧠 Volatility 3 \| 📡 Wireshark \| 🔐 Hashing (MD5, SHA‑1, SHA‑256) \| 📋 Chain of Custody (NIST SP 800‑86) |
-| **IT Support & ITSM** | 🎫 GLPI \| 🔄 Automated Ticket Routing \| ⏱️ SLA Management \| 📦 Asset Discovery (GLPI Inventory) \| 🔗 REST API Integration \| 📋 Knowledge Base Management |
-| **Networks** | 🌐 TCP/IP, VLANs, Cisco, Fortinet, Windows/Linux Server, Active Directory |
-| **Dev & Automation** | 🐍 Python \| 🔧 Bash \| 💻 PowerShell \| 🗄️ MySQL/PostgreSQL \| 🕒 Cron |
-| **Compliance** | 📈 CIS Benchmarks \| 🛡️ CVSS \| Nessus |
+### Vulnerability assessment and system hardening
 
----
-
-### 🧪 Featured Projects
-
-| Project | Description | Repo |
-| :--- | :--- | :--- |
-| **Wazuh SIEM Lab** | Implemented centralized monitoring, real-time detection, and automated event management using Wazuh. | [🔗 View](https://github.com/EssoToni/wazuh-siem-lab) |
-| **Network Intelligence API** | Designed and implemented a Python/Scapy API to automatically discover devices across local networks; exported device metadata in JSON format. | [🔗 View](https://github.com/EssoToni/network-intelligence-api) |
-| **Digital Forensics Lab** | Performed file integrity verification, disk/mobile hashing, RAM capture (Magnet RAM Capture, Volatility 3), and network traffic analysis with Wireshark; documented chain of custody per NIST SP 800‑86. | [🔗 View](https://github.com/EssoToni/digital-forensics-lab) |
-| **GLPI Automation** | Deployed GLPI with automated ticket routing, SLA escalation, REST API integration, and cron‑driven automation scripts. | [🔗 View](https://github.com/EssoToni/glpi-automation) |
-| **PAM & Secure Access Lab** | Designed and deployed WireGuard VPN + HashiCorp Vault for privileged access. | [🔗 View](https://github.com/EssoToni/pam-vault-lab) |
-| **NAC Enforcement Lab** | Implemented pre-access authentication enforcement using 802.1X authentication with FreeRADIUS. | [🔗 View](https://github.com/EssoToni/freeradius-nac) |
-| **Web Application Firewall** | Implemented Nginx + ModSecurity to mitigate SQLi/XSS. | [🔗 View](https://github.com/EssoToni/nginx-waf-lab) |
-| **Vulnerability Management Lab** | Conducted vulnerability assessments using Nessus, prioritized findings based on CVSS scoring, and tracked remediation actions | [🔗 View](https://github.com/EssoToni/vulnerability-management-lab) |
-| **PDF Malware Analyzer** | Built a static Python tool to scan PDFs for anomalies and scripts. | [🔗 View](https://github.com/EssoToni/pdf-malware-analyzer) |
-| **Ubuntu Hardening** | CIS Benchmark automation, 75%+ compliance increase. | [🔗 View](https://github.com/EssoToni/ubuntu-cis-hardening) |
-| **E-learning Cyber Risk Assessment (EBIOS RM)** | Modeled threat scenarios and risk treatment strategies for an LMS using the EBIOS RM methodology; identified key attack surfaces and proposed mitigations. | [🔗 View](https://github.com/EssoToni/risk-assessment) |
-
-*Click any repo to see full documentation, setup guides, and demos.*
+- **[Vulnerability Management Lab](https://github.com/EssoToni/vulnerability-management-lab):** vulnerability assessment exercises using Nessus, CVSS-informed prioritisation, and remediation tracking.
+- **[Ubuntu CIS Hardening](https://github.com/EssoToni/ubuntu-cis-hardening):** a Linux hardening exercise guided by CIS Benchmark recommendations, with the assessment scope and configuration work documented in the repository.
 
 ---
 
-### 📜 Certifications & Education
+## Professional experience
 
-<p>
-  <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0066CC?style=flat-square&logo=isc2" />
-  <img src="https://img.shields.io/badge/Fortinet-Certified%20Associate%20in%20Cybersecurity-EE3124?style=flat-square&logo=fortinet" />
-  <img src="https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-1BA0D7?style=flat-square&logo=cisco" />
-  <img src="https://img.shields.io/badge/Cisco-Cyber%20Defense%20Analyst%20%7C%20Splunk-1BA0D7?style=flat-square&logo=cisco" />
-  <img src="https://img.shields.io/badge/Cisco-IT%20Support%20Career%20Path-1BA0D7?style=flat-square&logo=cisco" />
-  <img src="https://img.shields.io/badge/Cisco-Threat%20Management-1BA0D7?style=flat-square&logo=cisco" />
-  <img src="https://img.shields.io/badge/Splunk-Security%20Operations-000000?style=flat-square&logo=splunk" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing%20101-FF9900?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Responsible%20AI-0078D4?style=flat-square&logo=microsoft" />
-</p>
+### SecurWires Technologies and Services LLP | Cybersecurity | February-May 2026
 
-- 🎓 **HCSS Program** – Southern Africa–Netherlands Cybersecurity School (2025)
-- 🎓 **Bachelor’s in Information Security** – University of Kara (2024)
-- 🎓 **CASIG** – African School on Internet Governance (2023)
- 
+Cybersecurity work spanning **asset security** and **digital investigations**. Activities included:
+
+- Digital evidence acquisition
+- Memory analysis
+- Network analysis
+
+The portfolio describes these activities at a general level. Case details, investigation artefacts, and sensitive evidence are not published.
+
+### Earlier professional experience
+
+My earlier professional background includes IT support and operational work with **ATANYS** and **CAMEG**, alongside engineering work with **CMDB Consulting**. The infrastructure-monitoring contribution is described in the [professional case study](projects/infrastructure-monitoring/README.md).
+
+Project and employer details are presented selectively to respect confidentiality. The portfolio does not publish client data, internal network information, investigation artefacts, or proprietary source code.
+
 ---
 
-### 🏆 Highlights
+## Additional technical work
 
-- 🌍 Togo Representative – Huawei Seeds for the Future (Morocco) 2024
-- 🎓 U.S. Embassy Access Program Scholar (2017–2019)
-- 👨‍🏫 Mentor & Hackathon Judge (Miabe 2025)
+| Area | Project | Repository |
+|---|---|---|
+| Network engineering | Network Intelligence API | [View project](https://github.com/EssoToni/network-intelligence-api) |
+| Digital forensics | Digital Forensics Lab | [View project](https://github.com/EssoToni/digital-forensics-lab) |
+| IT operations | GLPI Automation | [View project](https://github.com/EssoToni/glpi-automation) |
+| Privileged access and VPN | PAM &amp; Vault Lab | [View project](https://github.com/EssoToni/pam-vault-lab) |
+| Network access control | FreeRADIUS NAC Lab | [View project](https://github.com/EssoToni/freeradius-nac) |
+| Web security | Nginx WAF Lab | [View project](https://github.com/EssoToni/nginx-waf-lab) |
+| Security tooling | PDF Malware Analyzer | [View project](https://github.com/EssoToni/pdf-malware-analyzer) |
+| Cyber risk | EBIOS RM Risk Assessment | [View project](https://github.com/EssoToni/risk-assessment) |
+
+These projects vary in scope and maturity. Their individual documentation identifies whether the work is an implemented lab, an exploratory prototype, or an assessment exercise.
+
+---
+
+## Education, programmes, and credentials
+
+- **Bachelor's degree in Information Security**, Université de Kara, 2024
+- **Southern Africa-Netherlands Cyber Security School (SANCS / HCSS)**, 2025
+- **African School on Internet Governance (CASIG)**, 2023
+- **Cisco Networking Academy**, IT Support Specialist learning pathway
+
+For digital credentials and verified learning achievements, visit **[my Credly profile](https://www.credly.com/users/essotoni)**. The profile provides the individual badges, issuing organisations, and credential details. I keep the main portfolio focused on relevant experience and technical evidence rather than reproducing a long badge list here.
+
+## Selected engagements
+
+- **Huawei Seeds for the Future:** Togo representative, Morocco programme, 2024
+- **Miabe Hackathon:** jury, 2025
+
+---
+
+## Technical documentation
+
+For each project, I aim to make five things clear:
+
+1. The problem or learning objective.
+2. The environment, architecture, and scope.
+3. What I configured, implemented, or examined.
+4. How I validated the work and what I observed.
+5. What the evidence supports, along with the limitations.
+
+The goal is not to make every lab appear production-grade. It is to make the work inspectable, technically coherent, and honest about its scope.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EssoToni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <sub>For professional context and updates, connect through <a href="https://www.linkedin.com/in/EssoToni/">LinkedIn</a>.</sub>
 </p>
