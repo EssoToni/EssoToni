@@ -35,7 +35,7 @@ This portfolio brings together practical labs, technical projects, and selected 
 
 ### Security monitoring and telemetry
 
-**[Mini-SOC: Wazuh, Windows Server, and Ubuntu](projects/mini-soc/README.md)**  
+**[Mini-SOC: Wazuh, Windows Server, and Ubuntu](https://github.com/EssoToni/cybersecurity-soc-portfolio/README.md)**  
 A VirtualBox-based monitoring environment in development. The lab brings together a Wazuh all-in-one server, a Windows Server 2019 endpoint, and an Ubuntu Server endpoint. Current work is focused on endpoint onboarding, telemetry validation, and documented detection exercises.
 
 **[Earlier Wazuh SIEM lab](https://github.com/EssoToni/wazuh-siem-lab)**  
@@ -67,7 +67,7 @@ The portfolio describes these activities at a general level. Case details, inves
 
 ### Earlier professional experience
 
-My earlier professional background includes IT support and operational work with **ATANYS** and **CAMEG**, alongside engineering work with **CMDB Consulting**. The infrastructure-monitoring contribution is described in the [professional case study](projects/infrastructure-monitoring/README.md).
+My earlier professional background includes IT support and operational work with **ATANYS** and **CAMEG**, alongside engineering work with **CMDB Consulting**. The infrastructure-monitoring contribution is described in the [professional case study](https://github.com/EssoToni/infrastructure-monitoring/README.md).
 
 Project and employer details are presented selectively to respect confidentiality. The portfolio does not publish client data, internal network information, investigation artefacts, or proprietary source code.
 
@@ -95,7 +95,7 @@ These projects vary in scope and maturity. Their individual documentation identi
 - **Bachelor's degree in Information Security**, Université de Kara, 2024
 - **Southern Africa-Netherlands Cyber Security School (SANCS / HCSS)**, 2025
 - **African School on Internet Governance (CASIG)**, 2023
-- **Cisco Networking Academy**, IT Support Specialist learning pathway
+- **Cisco Networking Academy**, IT Support Specialist & Cybersecurity learning pathways
 
 For digital credentials and verified learning achievements, visit **[my Credly profile](https://www.credly.com/users/essotoni)**. The profile provides the individual badges, issuing organisations, and credential details. I keep the main portfolio focused on relevant experience and technical evidence rather than reproducing a long badge list here.
 
