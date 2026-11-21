@@ -35,7 +35,7 @@ This portfolio brings together practical labs, technical projects, and selected 
 
 ### Security monitoring and telemetry
 
-**[Mini-SOC: Wazuh, Windows Server, and Ubuntu](https://github.com/EssoToni/cybersecurity-soc-portfolio/README.md)**  
+**[Mini-SOC: Wazuh, Windows Server, and Ubuntu](https://github.com/EssoToni/cybersecurity-soc-portfolio/)**  
 A VirtualBox-based monitoring environment in development. The lab brings together a Wazuh all-in-one server, a Windows Server 2019 endpoint, and an Ubuntu Server endpoint. Current work is focused on endpoint onboarding, telemetry validation, and documented detection exercises.
 
 **[Earlier Wazuh SIEM lab](https://github.com/EssoToni/wazuh-siem-lab)**  
